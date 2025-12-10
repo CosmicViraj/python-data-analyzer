@@ -6,7 +6,7 @@ import io
 
 # --- Configuration and Setup ---
 st.set_page_config(
-    page_title="Multi-Graph Data Analyzer (Pandas/NumPy/Matplotlib)",
+    page_title="Data Analyzer App",
     layout="wide",
     initial_sidebar_state="expanded"
 )
